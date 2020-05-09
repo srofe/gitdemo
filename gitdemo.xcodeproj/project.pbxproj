@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		685F022C955FC42C10E0A33C /* SecondContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685F05BE6F86863C11FA2E2D /* SecondContentView.swift */; };
 		685F025C30C5FB77D3514972 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 685F0B2CD0716904AFE3C9AE /* Assets.xcassets */; };
 		685F096AD5D2A9FA187032A1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685F022F2FEF24787B4C7B19 /* ContentView.swift */; };
 		685F096F0479C32419D55667 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 685F0DED582CD049506E4D5E /* LaunchScreen.storyboard */; };
@@ -22,6 +23,7 @@
 		685F022F2FEF24787B4C7B19 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		685F03FE42F8025D2AFC6CCF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		685F04430F06954EBE737035 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		685F05BE6F86863C11FA2E2D /* SecondContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondContentView.swift; sourceTree = "<group>"; };
 		685F06BC7B08DE7A9EE6D5EC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		685F0B2CD0716904AFE3C9AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -47,6 +49,7 @@
 				685F04430F06954EBE737035 /* SceneDelegate.swift */,
 				685F022F2FEF24787B4C7B19 /* ContentView.swift */,
 				685F00E415B0192DFF7135EB /* Preview Content */,
+				685F05BE6F86863C11FA2E2D /* SecondContentView.swift */,
 			);
 			path = gitdemo;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				685F0D1987102DB66D3B76A2 /* AppDelegate.swift in Sources */,
 				685F0D2D7D9E44F33D741302 /* SceneDelegate.swift in Sources */,
 				685F096AD5D2A9FA187032A1 /* ContentView.swift in Sources */,
+				685F022C955FC42C10E0A33C /* SecondContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
